@@ -1,2 +1,1 @@
-# repositorio20
-prueba numero2
+lo logre primera parte
